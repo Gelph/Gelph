@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gelph
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Rust!
-- 💞️ I’m looking to collaborate on nothing right mos
+- 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me ...
 
 <h1>My Languages</h1>
