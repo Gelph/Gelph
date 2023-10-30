@@ -6,16 +6,16 @@
 
 <h1>My Languages</h1>
 
--Javascript
--Java
--CSS
--HTML
--C#
--Python
--C++
--Kotlin
--Ruby
--Rust
+-Javascript<br>
+-Java<br>
+-CSS<br>
+-HTML<br>
+-C#<br>
+-Python<br>
+-C++<br>
+-Kotlin<br>
+-Ruby<br>
+-Rust<br>
 
 
 <!---
