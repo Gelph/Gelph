@@ -4,7 +4,19 @@
 - 💞️ I’m looking to collaborate on nothing right mos
 - 📫 How to reach me ...
 
-<h1>My Tools</h1>
+<h1>My Languages</h1>
+
+-Javascript
+-Java
+-CSS
+-HTML
+-C#
+-Python
+-C++
+-Kotlin
+-Ruby
+-Rust
+
 
 <!---
 Gelph/Gelph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
