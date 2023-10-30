@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gelph
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Rust!
+- 🌱 I’m currently learning Rust!(Maybe Carbon too?)
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me ...
 
